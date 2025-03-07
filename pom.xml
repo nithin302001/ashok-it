@@ -55,6 +55,14 @@
     <version>2.387.1</version>
   </dependency>
 
+  <!-- https://mvnrepository.com/artifact/org.jetbrains.kotlin/kotlin-gradle-plugin -->
+<dependency>
+    <groupId>org.jetbrains.kotlin</groupId>
+    <artifactId>kotlin-gradle-plugin</artifactId>
+    <version>1.9.10</version>
+</dependency>
+
+
 
   <build>
     <pluginManagement><!-- lock down plugins versions to avoid using Maven defaults (may be moved to parent pom) -->
